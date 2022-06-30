@@ -1,6 +1,6 @@
 # MLP-for-Digit-Recognization
  
- Apply the MLP for digit recognization and perform the complete analysis of this implementation in terms of  calculation accuracy,recall and percision.
+ Apply the MLP for digit recognization and perform the complete analysis of this implementation in terms of  calculation accuracy,recall and percision. and also the output is also displayed.
  
  
 
@@ -24,7 +24,7 @@ Firstly we will load the mnist data containing digits from 0-9 and perform the s
 
 The MNIST dataset contains only grayscale images.
 Step 2:
-The sample of pixel distribution graph for the single digit from the mnist dataset.
+The sample of pixel distribution graph for the single digit from the mnist dataset is shown in the file.
 
 Step 3: 
 In order to train our neural network in multi layer perceptron  we have to firstly  classify images. We first have to unroll the height x width pixel format into one big vector - the input vector. 
@@ -66,12 +66,6 @@ The accuracy and precision can be further improved by either increasing the numb
 
 
 
+Hope you find it interesting and easy to learn.
 
-
-
-
-
-Conclusion:
-
-The accuracy and precision can be further improved by either increasing the number of hidden layers(sometimes not it depends on the complexity of problem) or increasing the number of nodes on each layer.
-
+Thanks!!
